@@ -12,7 +12,7 @@ public class STRHH
 		
 		int testCases  =in.nextInt();
 		
-		String inputSequence;
+		String inputSequence="";
 		
 		for (int i=0;i< testCases; i++)
 		{
