@@ -1,7 +1,7 @@
 /*STRHH-Half of the Half -Spoj*/
 
 #include <iostream>
-#include <cstring>
+#include <cstring> //or string.h
 
 using namespace std;
 
